@@ -1,12 +1,11 @@
 # ALX Listing App
 
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
----
+- This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 ## 🌐 Live Demo
 
-- 🔗 [Frontend Demo](https://your-frontend-demo-url.com)
-- 🔗 [Backend API Docs](https://your-backend-api-docs.com)
+- 🔗 [Frontend Demo]("Comming soon")
+- 🔗 [Backend API Docs]("Comming soon")
 
 ---
 
@@ -106,7 +105,7 @@ JWT_SECRET=your_jwt_secret_key
 **Frontend `.env`**
 
 ```
-VITE_API_URL=http://localhost:5000/api
+NEXT_PUBLIC_API_URL=http://localhost:5000/api
 ```
 
 ---
@@ -292,7 +291,7 @@ The Airbnb Clone enables core features essential to a rental marketplace platfor
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
@@ -309,7 +308,7 @@ git checkout -b feature/feature-name
 
 ## 📬 Contact
 
-For questions, reach out at [eyobedteshome@gmail.com]or connect via [LinkedIn](https://www.linkedin.com/in/eyobed-d-249634230/).
+For questions, reach out at [eyobedteshome@gmail.com] → [eyobedteshome@gmail.com](mailto:eyobedteshome@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/eyobed-d-249634230/).
 
 ---
 

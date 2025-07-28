@@ -1,7 +1,1 @@
-// interface CardProps {
-    
-// }
-
-// interface ButtonProps {
-
-// }
+// Property listing interface
